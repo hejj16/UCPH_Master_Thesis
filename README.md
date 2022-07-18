@@ -1,1 +1,1 @@
-# UCPH_Master_Thesis
+# Master Thesis in UCPH
