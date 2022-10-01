@@ -10,9 +10,9 @@ An explanation of the notebooks:
     <td>Discription</td>
   </tr>
   <tr>
-    <td {
+    <td colspan="2" {
   text-align: center;
-} colspan="2"><b>Notebooks to check the ASR Results</b></td>
+}><b>Notebooks to check the ASR Results</b></td>
   </tr>
   <tr>
     <td>ASR_Model_1.ipynb</td>
