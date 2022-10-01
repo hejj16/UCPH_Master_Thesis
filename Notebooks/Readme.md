@@ -33,6 +33,16 @@ An explanation of the notebooks:
     <td> Draupnir model with latent tree and SNW algorithm, taking an unaligned protein family as the input;</td>
   </tr>
   <tr>
-    <td colspan="2"><b>Notebooks to check the correlation between latent distances and phylogenetic distances</b></td>
+    <td colspan="2"><b>Notebooks for downstream tasks</b></td>
+  </tr>
+  <tr>
+    <td>Correlation_model_a_b(aligned).ipynb</td>
+    <td> Checking the correlation between latent distances and phylogenetic in distances downstream model a & b;</td>
+  </tr>
+  <tr>
+    <td>Correlation_model_c_d(unaligned).ipynb</td>
+    <td> Checking the correlation between latent distances and phylogenetic in downstream model c & d; </td>
   </tr>
 </table>
+
+correlation between latent distances and phylogenetic distances
