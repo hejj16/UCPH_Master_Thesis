@@ -37,12 +37,28 @@ An explanation of the notebooks:
   </tr>
   <tr>
     <td>Correlation_model_a_b(aligned).ipynb</td>
-    <td> Checking the correlation between latent distances and phylogenetic in distances downstream model a & b;</td>
+    <td> Checking the correlation between latent distances and phylogenetic distances in downstream model a & b;</td>
   </tr>
   <tr>
     <td>Correlation_model_c_d(unaligned).ipynb</td>
-    <td> Checking the correlation between latent distances and phylogenetic in downstream model c & d; </td>
+    <td> Checking the correlation between latent distances and phylogenetic distances in downstream model c & d; </td>
+  </tr>
+  <tr>
+    <td>Stability_Model_a.ipynb</td>
+    <td> Prediction of Stability using downstream model a; </td>
+  </tr>
+  <tr>
+    <td>Stability_Model_b.ipynb</td>
+    <td> Prediction of Stability using downstream model b; </td>
+  </tr>
+  <tr>
+    <td>Stability_Model_c.ipynb</td>
+    <td> Prediction of Stability using downstream model c; </td>
+  </tr>
+  <tr>
+    <td>Stability_Model_d.ipynb</td>
+    <td> Prediction of Stability using downstream model d; </td>
   </tr>
 </table>
 
-correlation between latent distances and phylogenetic distances
+
