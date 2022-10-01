@@ -20,4 +20,16 @@ An explanation of the notebooks:
     <td>ASR_Model_2.ipynb</td>
     <td> Draupnir model with latent tree, taking an aligned protein family as the input;</td>
   </tr>
+  <tr>
+    <td>ASR_Model_3a.ipynb</td>
+    <td> Draupnir model with SNW algorithm, taking an unaligned protein family and their phylogenetic tree as the input;</td>
+  </tr>
+  <tr>
+    <td>ASR_Model_3b.ipynb</td>
+    <td> Draupnir model, taking an unaligned protein family and their phylogenetic tree as the input; the unaligned sequences are padded to the same length;</td>
+  </tr>
+  <tr>
+    <td>ASR_Model_4.ipynb</td>
+    <td> Draupnir model with latent tree and SNW algorithm, taking an unaligned protein family as the input;</td>
+  </tr>
 </table>
