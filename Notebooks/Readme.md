@@ -8,7 +8,22 @@ An explanation of the notebooks:
 |Span <td colspan=2>**Notebooks to check the ASR Results**
 |ASR_Model_1.ipynb||
 
+
   
-| One    | Two | Three | Four    | Five  | Six 
-| -
-| Span <td colspan=3>triple  <td colspan=2>double
+  <table>
+  <tr>
+    <td>File Name</td>
+    <td>Discription</td>
+  </tr>
+  <tr>
+    <td colspan="2">**Notebooks to check the ASR Results**</td>
+  </tr>
+  <tr>
+    <td>ASR_Model_1.ipynb</td>
+    <td> the standard Draupnir model, taking an aligned protein family and their phylogenetic tree as the input; </td>
+  </tr>
+  <tr>
+    <td>ASR_Model_2.ipynb</td>
+    <td> Draupnir model with latent tree, taking an aligned protein family as the input;</td>
+  </tr>
+</table>
