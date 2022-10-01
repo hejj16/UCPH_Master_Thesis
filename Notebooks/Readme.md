@@ -3,12 +3,6 @@ This folder stores Jupyter notebooks containing codes for experiments and their 
 
 An explanation of the notebooks:
 
-|File Name|Discription|
-|-| -- |
-|Span <td colspan=2>**Notebooks to check the ASR Results**
-|ASR_Model_1.ipynb||
-
-
   
   <table>
   <tr>
@@ -16,7 +10,7 @@ An explanation of the notebooks:
     <td>Discription</td>
   </tr>
   <tr>
-    <td colspan="2">**Notebooks to check the ASR Results**</td>
+    <td colspan="2"><b>Notebooks to check the ASR Results</b></td>
   </tr>
   <tr>
     <td>ASR_Model_1.ipynb</td>
