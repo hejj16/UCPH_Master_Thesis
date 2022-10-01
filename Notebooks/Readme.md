@@ -62,11 +62,8 @@ An explanation of the notebooks:
 </table>
 
 A brief discription of downstream model a, b, c & d:
-- model (a): standard VAE model, assuming I.I.D. observations, and taking aligned sequences as input;
-- model (b): Draupnir model with latent tree, taking an aligned protein
-family as the input;
-- model (c): Draupnir model with latent tree and SNW algorithm, taking
-an unaligned protein family as the input;
-- model (d): Draupnir model, taking an unaligned protein family as the
-input; the unaligned sequences are padded to the same length.
+- model (a): standard VAE model, assuming I.I.D. observations, and taking aligned sequences as input;
+- model (b): Draupnir model with latent tree, taking an aligned protein family as the input;
+- model (c): Draupnir model with latent tree and SNW algorithm, taking an unaligned protein family as the input;
+- model (d): Draupnir model, taking an unaligned protein family as the input; the unaligned sequences are padded to the same length.
 
