@@ -32,4 +32,7 @@ An explanation of the notebooks:
     <td>ASR_Model_4.ipynb</td>
     <td> Draupnir model with latent tree and SNW algorithm, taking an unaligned protein family as the input;</td>
   </tr>
+  <tr>
+    <td colspan="2"><b>Notebooks to check the correlation between latent distances and phylogenetic distances</b></td>
+  </tr>
 </table>
